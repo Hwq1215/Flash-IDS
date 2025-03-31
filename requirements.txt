@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/torch/
 pandas==1.3.5
 numpy==1.23.1
 scikit-learn==1.1.1
